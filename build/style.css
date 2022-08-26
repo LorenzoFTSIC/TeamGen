@@ -1,0 +1,17 @@
+
+    .custom-header {
+        background-color: #28343b;
+    }
+    .custom-card-header {
+        background: #1c5a7a;
+    }
+    .custom-card {
+        border: solid 2px #28343b;
+    }
+    a {
+        color: #1c5a7a;
+    }
+    a:hover {
+        color: #4891b8;
+    }
+    

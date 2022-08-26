@@ -1,0 +1,20 @@
+{
+    "name": "team-gen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib",
+      "test": "tests"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "Lorenzo Ferri",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^28.1.3"
+    }
+  }
